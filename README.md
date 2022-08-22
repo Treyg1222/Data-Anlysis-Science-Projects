@@ -3,4 +3,5 @@ Projects displaying data analysis/science skills. The purpose for this is to sho
 
 ## Project Setup
 Each project will begin with an explanation along with skills showcased in the project.
+Throughout the project you will find markdown sections, along with comments that will explain my thought process and any other relevant information.
 
