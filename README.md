@@ -1,4 +1,4 @@
-# Data-Anlysis-Science-Projects
+# Data-Anlysis-And-Data-Science-Projects
 Projects displaying data analysis/science skills. The purpose for this is to showcase my skillset to future employers.
 
 ## Project Setup
